@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CameraNfc</string>
+    <string name="action_settings">Settings</string>
+    <string name="previous">Previous</string>
+    <string name="camera">Camera</string>
+    <string name="nfc">NFC</string>
+    <string name="camera_permission">Camera access permission needed!</string>
+    <string name="ok">OK</string>
+</resources>
